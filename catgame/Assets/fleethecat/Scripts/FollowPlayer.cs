@@ -13,8 +13,8 @@ public class FollowPlayer : MonoBehaviour
     public int inRangeDistance;  // when the cat should notice the player
     NavMeshAgent nav;
     private GazeAware _gazeAware; // use the gaze
-    private int catCooldown = 100; // max cooldown for cats (can be made public or serialized if prefeb)
-    private int currentCooldown = 0; // currrent cooldown (can be < 0
+    private int catCooldown = 200; // max cooldown for cats (can be made public or serialized if prefeb)
+    private int currentCooldown = 0; // currrent cooldown (can be < 0)
 
     // Start is called before the first frame update
     void Start()
