@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/fleethecat/scenes/startscreen.unity
+    guid: 5ba7053edc3659d48b6ad7e9aa59cee4
+  - enabled: 1
+    path: Assets/fleethecat/scenes/replayscreen.unity
+    guid: 472af3d6b3c3cf645ad717de5c62ffde
+  - enabled: 1
+    path: Assets/Starter Assets/FirstPersonController/Scenes/Playground.unity
+    guid: 707acc8dffb72b144bb1ffbe1c965f3d
+  - enabled: 1
+    path: Assets/fleethecat/scenes/creditscreen.unity
+    guid: de7ac5ad5aaffc948bee4abe25b88532
   m_configObjects: {}
