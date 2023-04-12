@@ -12,9 +12,12 @@ EditorBuildSettings:
     path: Assets/fleethecat/scenes/replayscreen.unity
     guid: 472af3d6b3c3cf645ad717de5c62ffde
   - enabled: 1
-    path: Assets/Starter Assets/FirstPersonController/Scenes/Playground.unity
-    guid: 707acc8dffb72b144bb1ffbe1c965f3d
+    path: Assets/fleethecat/scenes/Playground.unity
+    guid: fb7a5cb14367c0c45adc56445746fc31
   - enabled: 1
     path: Assets/fleethecat/scenes/creditscreen.unity
     guid: de7ac5ad5aaffc948bee4abe25b88532
+  - enabled: 1
+    path: Assets/fleethecat/scenes/winscreen.unity
+    guid: 24dcc356e8492f54588cf43ffeb5ecd5
   m_configObjects: {}
