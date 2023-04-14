@@ -1145,7 +1145,7 @@ Transform:
   - {fileID: 1804380274}
   - {fileID: 13482366}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &28433793 stripped
 GameObject:
@@ -20880,6 +20880,14 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2206052687829917865, guid: ce586887af61b4c46a1de0210d040eea, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 135756641613574979}
+    - target: {fileID: 2206052687829917865, guid: ce586887af61b4c46a1de0210d040eea, type: 3}
+      propertyPath: laserObject
+      value: 
+      objectReference: {fileID: 1152026783}
     - target: {fileID: 5012327743873524625, guid: ce586887af61b4c46a1de0210d040eea, type: 3}
       propertyPath: m_Name
       value: Cat_3_Chonk (5)
@@ -20928,6 +20936,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8890914952747890647, guid: ce586887af61b4c46a1de0210d040eea, type: 3}
+      propertyPath: pHealth
+      value: 
+      objectReference: {fileID: 135756641613574983}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: ce586887af61b4c46a1de0210d040eea, type: 3}
